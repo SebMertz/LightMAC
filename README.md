@@ -1,5 +1,5 @@
 # LightMAC
-An Implementation of the Message Authentication Code LightMAC
+<b>An Implementation of the Message Authentication Code LightMAC</b>
 
 The implementation was created as part of my Bachelor Thesis. The original paper of the authors describing LightMAC can be found at https://eprint.iacr.org/2016/190.
 
